@@ -20,7 +20,7 @@ This project aims to predict stock market trends using machine learning techniqu
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DebanjanMukherjee22/Stock-Market-Prediction.git
+   git clone https://github.com/DebanjanMukherjee22/StockMarketPrediction.git
    ```
 2. Navigate to the project directory:
    ```bash
